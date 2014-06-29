@@ -23,3 +23,8 @@ Usage
 - Under Triggers, change KEYWORD to the keyword that you want Tasker to 
 look out for.
 - Save and done!
+
+
+(TIP: Try texting yourself or have someone else text you to see if the 
+keyword works or not! Also, make sure your phone's Location settings 
+are enabled!)
